@@ -1,0 +1,13 @@
+{
+  "name": "first-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Nick",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
