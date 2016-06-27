@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+.url{
+  float: left;
+  margin: 50px;
+}
+.selector{
+  float: left;
+  margin: 50px;
+}
+.depth{
+  float: left;
+  margin: 50px;
+}
+.button{
+  margin: 100px;
+  width: 100px;
+  background: linear-gradient(#1e5799 0%, #2989d8 51%, #207cca 60%, #7db9e8 100%);
+  border: 2px solid black;
+  cursor: pointer;
+}
+  </style>
+</head>
+<body>
+   <form action="http://localhost:3000" method="get">
+   <div class="url">
+     <p>URL:</p>
+     <input type="text" name="url">
+   </div>
+   <div class="selector">
+     <p>Selector:</p>
+     <input type="text" name="selector">
+   </div>
+   <div class="depth">
+     <p>Depth:</p>
+     <input type="text" name="depth">
+   </div>
+   <input class="button" type="submit">
+</form>
+</body>
+</html>
