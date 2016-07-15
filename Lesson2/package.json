@@ -13,6 +13,11 @@
     "cheerio": "^0.20.0",
     "express": "^4.14.0",
     "got": "^6.3.0",
-    "tress": "^1.0.3"
+    "serve-static": "^1.11.1",
+    "tress": "^1.0.3",
+    "jasmine": "^2.4.1"
+  },
+  "devDependencies": {
+    "supertest": "^1.2.0"
   }
 }

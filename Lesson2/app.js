@@ -5,72 +5,62 @@ var tress = require('tress');
 var cheerio = require('cheerio');
 var resolve = require('url').resolve;
 var app = express();
+var serveStatic = require('serve-static');
 
 var results = [];
 var links = {};
 
-app.get('/', function (req, res) {
+app.use(serveStatic('front'));
+app.get('/scrape', function (req, res) {
 
-  var url = "http://" + req.query.url;
+  var url = 'http://' + req.query.url;
   var selector = req.query.selector;
   var depth = req.query.depth;
 
-  console.log ("URL: " + url);
-  console.log("selector: " + selector);
-  console.log("depth: " + depth);
+  console.log ('URL:', url);
+  console.log('selector:', selector);
+  console.log('depth:', depth);
 
-  var counter = 0;
+  var counter = url.split('/').length;
 
-  for(i = 0; i < url.length; i++){
-      if(url[i] === '/')counter++;
-  }
+  var q = tress(function processNode(url, callback) {
 
-  var q = tress(function(url, callback) {
-
-      got(url).then(function (data) {
+      got(url).then(function pageParse(data) {
           var $ = cheerio.load(data.body);
-          $(selector).each(function (index, selector) {
-              results.push({href: url, Content: $(selector).text()});
-              console.log(results);
+
+          $(selector).each(function contentSave(index, sel) {
+              var text = $(sel).text();
+              results.push({href: url, Content: text});
+              console.log({href: url, Content: text});
           });
-          $('a').each(function () {
+
+          $('a').each(function processLink() {
               var link = $(this).attr('href');
-              var count = 0;
-              var fullLink = "http://" + link;
-              if(link.indexOf(url) != -1 && links[link] !== true){
-                  for(i = 0; i < fullLink.length; i++){
-                      if(fullLink[i] == '/')count++;
-                  }
-                  if(count - counter <= depth) {
+
+              var resolvedLink = resolve(url, link);
+
+              var currentDepth = resolvedLink.split('').length;
+
+                  if(currentDepth - counter <= depth) {
                       console.log(fullLink);
                       q.push(fullLink);
                       links[link] = true;
                   }
-              }
-              if (link.slice(0,1) == '/'  && links[link] !== true ){
-                  var resolvedLink = resolve(url, link);
-                  for(i = 0; i < resolvedLink.length; i++){
-                      if(resolvedLink[i] == '/')count++;
-                  }
-                  if(count - counter <= depth) {
-                      console.log(resolvedLink);
-                      q.push(resolvedLink);
-                      links[link] = true;
-                  }
-              }
-
           });
 
       });
       callback();
   },10);
 
-  q.drain = function(){
-      fs.writeFileSync('output.json', JSON.stringify(results, null, 2));
+  var resultsStr = JSON.stringify(results, null, 4);
+
+  q.drain = function saveToFile(){
+      fs.writeFileSync('output.json', resultsStr);
   };
+  links[url] = true;
   q.push(url);
 
-  res.send('Check your console and output.json');
+  res.send('<pre>' + resultsStr + '</pre>');
 });
 
 app.listen(3000, function () {

@@ -1,18 +1,2286 @@
 [
-  {
-    "href": "http://dou.ua",
-    "Content": "Сообщество программистов | DOU"
-  },
-  {
-    "href": "http://dou.ua",
-    "Content": "Сообщество программистов | DOU"
-  },
-  {
-    "href": "http://dou.ua",
-    "Content": "Сообщество программистов | DOU"
-  },
-  {
-    "href": "http://dou.ua",
-    "Content": "Сообщество программистов | DOU"
-  }
+    {
+        "href": "http://yandex.ru",
+        "Content": "Зробити стартовою"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Київ"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Ukr"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Rus"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ще"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Налаштування"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Поставити тему"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Налаштувати Яндекс"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Змінити місто"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Інші налаштування"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Завести пошту"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Пошта"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "?"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Новини"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "у Києві"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "18:53"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "На Хмельниччині під час зльоту загорівся військовий літак"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Російського комісара Кірова потіснив український театрал Кропивницький"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "«Борець з мобілізацією» Коцаба вимагатиме компенсацію"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Нардеп Луценко показав відзняте дроном відео в Раді"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Збірна України втратила 11 позицій у рейтингу ФІФА"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "У Києві в одному з банків зникли сім мільйонів гривень"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ЮНЕСКО залишило Софію Київську і Лавру до списку Світової спадщини"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Копи затримали близько 20 осіб, що влаштували бійку біля «Карателя»"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Аргентинський художник створив мурал у Києві"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Прокуратура взяла на контроль пожежу на Трипільському сміттєзвалищі"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "USD"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "EUR"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Літаком у відпустку"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Карти"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Маркет"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Новини"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Перекладач"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Зображення"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Відео"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Музика"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ще"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Авіаквитки"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Афіша"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Блоги"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Диск"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Затори"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ЗНО"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Каталог"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Музика"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Погода"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Пошта"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Пошук людей"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Робота"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Розклади"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Телепрограма"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Фотки"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Для мобільного"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Програми"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Всі сервіси"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Спробуйте Яндекс.Браузер"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Погода"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "+29 °C"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Вночі +22"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "вранці +25"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Відвідуване"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Маркет"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "чоловічий одяг"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Робота"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "статистика зарплат"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Музика"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "для подорожей"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Відео"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "подивитися фільм"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Зображення"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "маленькі собаки"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Авіаквитки"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "із Києва"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Затори"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "5 балів"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Телепрограма"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Коли ми вдома"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "СТБ"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Універ. Нова общага"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "НЛО TV"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Одного разу під Полтавою"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ТЕТ"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "СашаТаня"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Новий канал"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Кулагін та партнери"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "НТН"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Домашній арешт"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ТЕТ"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Карта Києва"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Метро"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Розклади"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "До Нью-Йорка літаком"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Афіша"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Льодовиковий період: Курс…"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Весільний погром"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "До зуcтрічі з тобою"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Мілина"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Легенда про Тарзана"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Директ"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "контекстні оголошення"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Метрика"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Реклама"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Вакансії"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Блог"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Компанія"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "About"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Зробити стартовою"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Київ"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Ukr"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Rus"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ще"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Налаштування"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Поставити тему"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Налаштувати Яндекс"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Змінити місто"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Інші налаштування"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Завести пошту"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Пошта"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "?"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Новини"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "у Києві"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "18:53"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "На Хмельниччині під час зльоту загорівся військовий літак"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Російського комісара Кірова потіснив український театрал Кропивницький"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "«Борець з мобілізацією» Коцаба вимагатиме компенсацію"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Нардеп Луценко показав відзняте дроном відео в Раді"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Збірна України втратила 11 позицій у рейтингу ФІФА"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "У Києві в одному з банків зникли сім мільйонів гривень"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ЮНЕСКО залишило Софію Київську і Лавру до списку Світової спадщини"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Копи затримали близько 20 осіб, що влаштували бійку біля «Карателя»"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Аргентинський художник створив мурал у Києві"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Прокуратура взяла на контроль пожежу на Трипільському сміттєзвалищі"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "USD"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "EUR"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Час на прогулянку"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Карти"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Маркет"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Новини"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Перекладач"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Зображення"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Відео"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Музика"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ще"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Авіаквитки"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Афіша"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Блоги"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Диск"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Затори"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ЗНО"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Каталог"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Музика"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Погода"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Пошта"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Пошук людей"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Робота"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Розклади"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Телепрограма"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Фотки"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Для мобільного"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Програми"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Всі сервіси"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Спробуйте Яндекс.Браузер"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Погода"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "+29 °C"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Вночі +22"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "вранці +25"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Відвідуване"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Маркет"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "одяг для малюків"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Зображення"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "смугасті коти"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Авіаквитки"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "до Нью-Йорка"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Відео"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "як зварити борщ"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Музика"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "радісна"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Робота"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "пошук вакансій"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Затори"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "5 балів"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Телепрограма"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Коли ми вдома"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "СТБ"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Універ. Нова общага"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "НЛО TV"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Одного разу під Полтавою"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ТЕТ"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "СашаТаня"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Новий канал"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Кулагін та партнери"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "НТН"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Домашній арешт"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "ТЕТ"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Карта Києва"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Метро"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Розклади"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Авіаквитки із Києва"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Афіша"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Льодовиковий період: Курс…"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Весільний погром"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "До зуcтрічі з тобою"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Мілина"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Легенда про Тарзана"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Директ"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "контекстна реклама"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Метрика"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Реклама"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": ""
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Вакансії"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Блог"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "Компанія"
+    },
+    {
+        "href": "http://yandex.ru",
+        "Content": "About"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Главная"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Форум"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Лента"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Зарплаты"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Работа"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Календарь"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Джинн"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Вход и регистрация"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Первая работа"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Карьера в IT"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Рынок труда"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "образования"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Топ-25"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Рейтинг работодателей"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "вузов"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "книг"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "языков"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Портрет айтишника"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tЗарплаты украинских разработчиков — май-июнь 2016"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "63"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tБеседа с Александром Медовым, председателем наблюдательного совета Харьковского ИТ-кластера"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "3"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tКультура зворотного зв’язку"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "24"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tDOU Проектор: Стартап Левел — спільнота українських стартапів з відповідями на питання засновників"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "7"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tВ поисках эффективности: как мы внедряли Kanban и Trello"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "8"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Свежее"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Популярное"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Статьи"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Зарплаты украинских разработчиков — май-июнь 2016"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "63"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Интервью"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Беседа с Александром Медовым, председателем наблюдательного совета Харьковского ИТ-кластера"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "3"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Статьи"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Культура зворотного зв’язку"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "24"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Статьи"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "DOU Проектор: Стартап Левел — спільнота українських стартапів з відповідями на питання засновників"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "7"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Статьи"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "В поисках эффективности: как мы внедряли Kanban и Trello"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "8"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Статьи"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Контроль качества в Open Source: опыт проекта CRIU"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "6"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Ссылки"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Java дайджест #26: Make JEE great again"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "17"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Статьи"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Выбор боевых искусств для программистов: зачем, что, где, возражения, полезные советы"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "485"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Статьи"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "DOU Проектор: Settory — сервис для онлайн-заказа уборки квартиры"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "29"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Рейтинг вузов DOU-2016: на первом месте Могилянка, КПИ в середине списка"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "148"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Junior дайджест: курси, стажування, інтернатура. Липень’16"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "70"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Удаленная работа: обзор возможностей в украинских IT-компаниях"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "62"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Сколько IT-шников нужно, чтобы поднять экономику"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "230"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Зарплаты украинских разработчиков — май-июнь 2016"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "63"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Выбор боевых искусств для программистов: зачем, что, где, возражения, полезные советы"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "485"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Як перейти від споживання до продукування"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "75"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "QA дайджест #19: Практические примеры работы, тестирование игр, коллекция лучших докладов SQA Days"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "7"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Когда молодой компании нужен HR"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "36"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Портрет ИТ-специалиста — 2016. Инфографика"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "125"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Рейтинг вузов DOU-2016: на первом месте Могилянка, КПИ в середине списка"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "148"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Junior дайджест: курси, стажування, інтернатура. Липень’16"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "70"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Первая работа: сколько junior специалистов наняли IT-компании в 2015 году"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "118"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Что портит резюме разработчика"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "339"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Об IT-рынке труда в Канаде"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "162"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Удаленная работа: обзор возможностей в украинских IT-компаниях"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "62"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Маркіян Іванічок — про те, як зламати стереотипи і влаштуватись web-розробником в 16 років"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "405"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Сколько IT-шников нужно, чтобы поднять экономику"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "230"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Рейтинг языков программирования № 7: PHP уходит с пьедестала"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "166"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Портрет ИТ-специалиста — 2016. Инфографика"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "125"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "ТОП-25 крупнейших IT-компаний Украины, январь-2016. Умеренный рост и переход порога «4000 сотрудников»"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "18"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Рынок IT-образования: курсы и учебные центры подготовили свыше 20 тыс. студентов в 2015 году"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "117"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Какой язык программирования выбрать"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "239"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Рейтинг вузов DOU-2016: на первом месте Могилянка, КПИ в середине списка"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "148"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Семь мифов о жизни и работе в Польше"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "334"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Україна 2.0: мій переїзд в Естонію"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "309"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Стоит ли брать на работу джуниоров"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "222"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Как я переехал в Польшу и вернулся назад: несколько причин не эмигрировать за границу"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "1K"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Программисты пакуют чемоданы. Результаты опроса о повышении налогов"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "1K"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Почему я ухожу из КПИ"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "368"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Обзор рынка труда 2015: компании растут, зарплаты стоят, программисты едут"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "121"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Рейтинг языков программирования № 7: PHP уходит с пьедестала"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "166"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Портрет ИТ-специалиста — 2016. Инфографика"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "125"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "ТОП-25 крупнейших IT-компаний Украины, январь-2016. Умеренный рост и переход порога «4000 сотрудников»"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "18"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Рынок IT-образования: курсы и учебные центры подготовили свыше 20 тыс. студентов в 2015 году"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "117"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Java Enterprise: что и как учить"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "135"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Как я переехал в Польшу и вернулся назад: несколько причин не эмигрировать за границу"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "1K"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Карьера в IT: должность QA engineer"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "69"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Результаты «книжного» опроса: список must-read по версии DOU"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "33"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Суровая реальность начинающих тестировщиков. Пособие: что и как учить"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "88"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Елена Денисенко — о карьере программиста и должности Team Lead в 19 лет"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "686"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Программисты пакуют чемоданы. Результаты опроса о повышении налогов"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "1K"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Пособие для будущего Java разработчика. Основы Java"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "72"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Карьера в IT: должность Project Manager"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "49"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Почему я ухожу из КПИ"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "368"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Все материалы"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Прислать статью"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "RSS"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "События"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "16 июля"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Odessa Android DevClub Meetup #4"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "1"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "16 — 17 июля"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "uaMobiTech 2016"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "1"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "16 июля"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "10th Anniversary Ruby Meditation Conference"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "23 — 24 июля"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "IT Business Camp — летняя встреча на природе для CEO, Sales и PM-ов IT-компаний со всей Украины"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "1"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "23 июля"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Всеукраїнський науково-технічний пікнік у Хмельницькому"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "1"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "29 — 31 июля"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "WebCamp 2016: Front-End, Python, PHP, DevOps, PM, BizDev: Product"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "30 июля"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "VinnytsiaJS"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "1"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Колумнисты"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tVlad Voskresensky\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Як перейти від споживання до продукування"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "75"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tDima Malenko\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Сколько IT-шников нужно, чтобы поднять экономику"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "230"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tOksana Oros\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Руководителю — практические советы с 500-летней выдержкой. Часть 2: управление персоналом"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "11"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tVsevolod Dyomkin\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Анонс lang-uk: створюємо умови для повноцінної обробки україномовних текстів"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "37"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tDenis Dovgopoliy\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Об образовании в постиндустриальную эпоху"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "49"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tDenis Zhevner\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Из АТО в ИТ после 30-ти? Как мы обучали группу воинов"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "70"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tЮлия Кескин\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "IT-ивенты в Украине: ходить или не ходить"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "56"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Популярное на форуме"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Разное"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Українізація LinkedIn"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "1K"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "О работе"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Сложный выбор между двумя специальностями"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "112"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Работа за границей и ПМЖ"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Вперше за кордоном: які підводні камені?"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "121"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Стартапы и бизнес"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Одежда для айтишников IT-shirt"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "62"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Разное"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Silicon Valley & SFO: «Программисты — зажравшиеся мажоры современности»"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "412"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "О работе"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Выход на работу после декрета"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "95"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Разное"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Соціальна активність в ІТ компаніях"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "27"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Барахолка"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Ищу хозяина(хозяйку) для котят. Одесса"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "21"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "О работе"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Junior Java Team Lead"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "39"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Разработка"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Arduino to UDP (socat)"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "18"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Разработка"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Розробка під Universal Windows Platform"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "15"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "О работе"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Вейпинг в офисе"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "204"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\tОкрім того, щоб щось прибирати.фарбували/лагодити (працювати замість ЖКХ власне), надаю вам ідею піти до інтернатів і навчати малих користуватися комп\"ютером та офісними додатками (для початку). Прям, беріть свої ноути та йдіть. Або один ПК подаруйте, беріть проектор та хоч так показуйте-розповідайте і по одному садіть на вправи...\n\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tИрина Амплеева"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Соціальна активність в ІТ компаніях"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\tкаждый 3й разработчик — это джун. Каждый третий!! Не каждый 3-й разработчик из общего количества, а каждый 3-й, заполнивший анкету. К примеру, мои знакомые с зп от 4К и возрастом далеко за 30 не знают и знать не хотят про какой-то DOU. Им это не интересно, равно как и участие в...\n\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tAlexandr Tsarenko"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Зарплаты украинских разработчиков — май-июнь 2016"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\tКак-то так: http://i.imgur.com/rPyJZPg.png\n\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tSergii Voloshyn"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Зарплаты украинских разработчиков — май-июнь 2016"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\tА вы вся такая прям задолбалась что увидев тему с просьбой на которую можно не реагировать — решила прыснуть немножко яда и аж зарегистрировалась для такого. Займитесь лучше своим Project-ом Manager — мы как-нибудь сами разберёмся что такое польза и кому и куда её нести.\n\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tOleksandr Zakrevskyi"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Українізація LinkedIn"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\tХм, якщо перечитати тему, то наче нічого поганого нема, ну як мінімум нейтральне. Типу подобається ідея — роби, не подобається — не роби. Але знайшлися супер-розумники, які розвинули теорію двох типів людей і далі пішло-поїхало. І коли читаєш вже останні дописи, то там вже є такі речі як «автор своєю тупістю», «такі як ви все тільки псуєте» і т.д.\n\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tDmytro Baranetskyi"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Українізація LinkedIn"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\tТолько непонятно, что на колле кастомеру потом говорить)вчера мыла полы 8 часов, вот счет, с вас 200 долларов за вчера, на выходных собираюсь поовертаймить надо вытереть пыль в офисе, это будет 400 долларов, х2 сами понимаете или «я сегодня приболела, с дома поработаю, займусь уборкой»\n\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tVadim Kopanev"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Соціальна активність в ІТ компаніях"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\tДо речі, нормальна практика в більшості західних компаній. Это сотрудникам такую лапшу вешай. У нас, мабуть, до цього деякі люди (можливо більшість) не готові. Угу, всё совок в голове гуляет. Субботники и прочая хрень. Любая западная компания организовала бы так: 1) Договорились бы с другими компаниями и взяли напрокат или проплатили создание велосипедов-тандемов человек на 10 — это недорого.\n\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tMike Gorchak"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Соціальна активність в ІТ компаніях"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\tну мест-то все равно меньше чем желающих\n\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tVadim Kopanev"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Зарплаты украинских разработчиков — май-июнь 2016"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\tесли каждый 10-й из войтивайти дорастёт до нормального сеньера, это уже будет огромным достижением. Не думаю что они сумеют сбить планку синьера. По такой логике, если сейчас хватает мидлов, то через n лет будет хватать сеньеров, но что то мне подсказывает, что так не будет)\n\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\tAlexandr Rybak"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Зарплаты украинских разработчиков — май-июнь 2016"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Lead Software Engineer - PHP"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Innovecs"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Middle Linux System Administrator"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "EVO.company"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "HR Marketing Designer"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "SoftServe"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "HR Marketing Specialist (Dev.Center)"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "SoftServe"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Project Manager"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "HamsterCoders"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Middle Front-end Developer (Live casino with video stream)"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Playtech"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Senior QA engineer"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Vertamedia"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Front-End Engineer"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Kapowai"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "DevOps Engineer"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Crytek"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Senior Test Automation Engineer (C#)"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Itera"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Все вакансии"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tMobileOptimized 2016\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tКурсы по PHP-программированию с гарантией трудоустройства\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tТренинг «Основы психологии для HR-менеджеров»\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tСеминар «Подготовка к экзамену PMP®»\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tUkrainian IT Awards 2016\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tКонференция WebCamp: Front-End\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tКонференция WebCamp: DevOps\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tКонференция WebCamp: Python\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tКонференция WebCamp: Project Management\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tКонференция WebCamp: PHP\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tКонференция WebCamp: BizDev\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\tJava от А до Я в CyberBionic Systematics\n\t\t\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\tКак неправильная роль в проекте приводит к катастрофам\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\tКарта карьеры\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\tЧитать лекции. Персональный level-up\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\tДизайнеры vs. Девелоперы\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\tIT Евротур: MacPaw (пилотный выпуск)\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\tЗакат эпохи проектного менеджмента или кто виноват и что делать?\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\t«Двойная игра» студента: как совмещать учёбу и работу\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\tЧто должен знать каждый IT-шник, у которого болит шея\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\tДва слова о корпоративах и тимбилдинге\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\tФотообзор: компании приглашают гостей, или где провести ИТ-мероприятие? Львов, Винница, Ужгород, Хмельницкий\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "DOU.ua"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Українська"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "English"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Нас уже 140 847"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": ""
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Работа на jooble.com.ua"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Контакты"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Реклама"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Legal"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "support@dou.ua"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tFacebook\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tGoogle\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tLinkedIn\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tВКонтакте\n\t\t\t"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "по почте"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "твиттеру"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Регистрация"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "Восстановление пароля"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "воспользуйтесь аккаунтом"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "условиями использования сайта"
+    },
+    {
+        "href": "http://dou.ua",
+        "Content": "политикой конфиденциальности"
+    }
 ]
