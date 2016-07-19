@@ -1,0 +1,19 @@
+{
+  "name": "node-cli",
+  "description": "node cli app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "cli": "./bin/cli"
+  },
+  "dependencies": {
+    "commander": "^2.2.0",
+    "colors": "^0.6.2"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.5"
+  }
+}
